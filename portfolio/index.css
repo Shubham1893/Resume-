@@ -1,0 +1,158 @@
+#mainbody{
+    margin:0px;
+    padding:0px;
+    background-image:url(bg.jpg);
+    
+    background-size:fit;
+    background-repeat:no-repeat;
+    /* height:200vh; */
+    width:1500px;
+    height:1300px;
+ 
+}
+#icon1{
+    position:relative;
+    top:250px;
+    left:900px;
+    height:400px;
+    width:400px;
+
+}
+#ani1{
+    position :relative;
+    height:400px;
+    width:400px;
+    top:200px;
+    left:100px;
+}
+#logo{
+    position :absolute;
+    height:100px;
+    width:100px;
+}
+
+/* for animated text ......................................... */
+#text1{
+    font-size: 100px;
+    color:aliceblue;
+    font-family :roboto;
+    position:absolute;
+    top:400px;
+    left:200px;
+}
+#img2{
+    padding:0px;
+    margin:0px;
+    position :absolute;
+    height:200px;
+    width:200px;
+    top:10px;
+    left:1300px;
+}
+#para1{
+    font-family:roboto;
+    font-size:20px;
+    height:300px;
+    width:600px;
+    position:absolute;
+    top:0px;
+    left:10px;
+}
+/* for my image */
+/* .dot{
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    background-color: rgba(191, 207, 221, 0.408);
+    position:absolute;
+    top:27px;
+    left:95px;
+} */
+#myimage{
+    height:250px;
+    width:250px;
+    border-radius:50%;
+    position:absolute;
+    top:50px;
+    left:80px;   
+}
+#name{
+    font-size:50px;
+    font-family:roboto;
+    position:absolute;
+    top:120px;
+    left:445px;
+    color:aliceblue;
+}
+#clg{
+    font-size:20px;
+    font-family:roboto;
+    position:absolute;
+    top:210px;
+    left:450px;
+    color:aliceblue;
+}
+
+
+/* bottom............... */
+#bottom{
+    position:absolute;
+    top:1000px;
+    height:300px;
+    width:1500px;
+    background-color: rgba(0, 0, 0, 0.638);
+}
+#contact{
+    position:absolute;
+    font-size:15px;
+    font-family:sans-serif;
+    color: aliceblue;
+    left:50px;
+    top:50px;
+}
+
+#a1{
+    border:1px solid rebeccapurple;
+    background-color: rgb(196, 222, 255);
+    padding:10px;
+    color: rgb(39, 17, 205);
+    text-decoration: none;
+    border-radius:6px;
+    position:absolute;
+    top:695px;
+    left:350px
+}
+#a1:hover{
+    background-color: rgb(255, 255, 255);
+    color :rgb(0, 0, 0);
+}
+#resume{
+    font-size:40px;
+    color:white;
+    position:absolute;
+    top:650px;
+    left:210px;
+}
+#gif2{
+    position:absolute;
+    height:400px;
+    width:400px;
+    top:930px;
+    left:1050px;
+}
+#a2{
+    position:absolute;
+    top:800px;
+    left:205px;
+    
+}
+#a3{
+    position:absolute;
+    top:800px;
+    left:310px;
+}
+#a4{
+    position:absolute;
+    top:800px;
+    left:415px
+}
